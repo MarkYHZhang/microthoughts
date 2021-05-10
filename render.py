@@ -77,7 +77,7 @@ class Renderer:
             post_block = self.post_template.format(
                 content=content_html,
                 timestamp=date_str,
-                permalink_rel_path=f"../../post/{raw_timestamp}"
+                permalink_rel_path=f"../../post/{ts}"
             )
             main_feed_builder.write(post_block)
 
