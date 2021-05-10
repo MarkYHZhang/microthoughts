@@ -26,3 +26,4 @@ python render.py
 - [x] Permalink support for post sharing
 - [ ] Use a better html template engine (avoid hardcoding string constants in Python)
 - [ ] Remove unnecessary css/js dependencies (specifically skeleton.css)
+- [ ] Configuration file
