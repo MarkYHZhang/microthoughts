@@ -22,7 +22,7 @@ python render.py
 4. Site generated to the `output` folder
 
 ## TODO:
-- [ ] Pagination: automatically paginate to reduce page load time
+- [x] Pagination: automatically paginate to reduce page load time
 - [x] Permalink support for post sharing
 - [ ] Use a better html template engine (avoid hardcoding string constants in Python)
 - [ ] Remove unnecessary css/js dependencies (specifically skeleton.css)
