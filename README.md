@@ -21,6 +21,7 @@ python render.py
 ```
 4. Site generated to the `output` folder
 
+
 ## TODO:
 - [x] Pagination: automatically paginate to reduce page load time
 - [x] Permalink support for post sharing
