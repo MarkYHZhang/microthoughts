@@ -25,6 +25,7 @@ python render.py
 ## TODO:
 - [x] Pagination: automatically paginate to reduce page load time
 - [x] Permalink support for post sharing
+- [ ] Fix pagination indeterminism
 - [ ] Use a better html template engine (avoid hardcoding string constants in Python)
 - [ ] Remove unnecessary css/js dependencies (specifically skeleton.css)
 - [ ] Configuration file
